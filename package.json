@@ -1,0 +1,26 @@
+{
+  "name": "ascii-art-steam-engine",
+  "version": "0.0.1",
+  "description": "Prints out Steam Engine"
+  "main": "nid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodie2525/asciiArtSteamEngine"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "keywords": [
+    "steam engine",
+  ],
+  "author": "Iqbal S Amet",
+  "license": "MIT",
+  "files": [
+    "README.md",
+    "LICENSE.txt",
+    "asciiArtSteamEngine.js"
+  ],
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
